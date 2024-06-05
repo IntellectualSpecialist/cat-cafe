@@ -1,0 +1,16 @@
+export const defaultTheme = {
+  colorTextBase: "#333333",
+  colorWhite: "#ffffff",
+  colorLiteGrey: "#f6f6f6",
+  colorLiteBg: "#fff6d9",
+  colorDarkBg: "#ffeead",
+  colorNew: "#ffb334",
+  colorSoft: "#7fc92e",
+  colorButton: "#ff732b",
+  colorButtonHover: "#f35714",
+  paddingPage: "90px",
+  indent: "20px",
+  fontFamilly: '"Inter", "Arial", sans-serif',
+  fontSizeDefault: "18px",
+  pageWidth: "1280px",
+};
