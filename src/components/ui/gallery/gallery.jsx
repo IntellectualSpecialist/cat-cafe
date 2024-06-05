@@ -1,7 +1,7 @@
 import React, { useState, useRef } from "react";
 import { SwiperSlide } from "swiper/react";
 import SwiperCore, { Navigation, Thumbs } from "swiper";
-import "swiper/swiper.scss";
+import "swiper/swiper.css";
 import {
   StyledSlider,
   SlyderWrapper,
